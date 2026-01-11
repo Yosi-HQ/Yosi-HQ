@@ -1,5 +1,13 @@
 # 💫 About Me:
-Hi, I'm Eyosiyas Eyasu — a passionate learner and builder. I work in cybersecurity and also enjoy backend development with Go.<br>Currently exploring security research, building tools, and contributing to open-source projects.<br><br>🛠️ Tools I use: Go, Bash, Linux, Git<br>🔒 Interests: Security Researcher & Backend developer
+👋 Hi, I’m Eyosiyas Eyasu — a Go Backend Developer with a strong background in cybersecurity.
+
+I specialize in building scalable, secure, and performance-oriented backend systems using Go. My work emphasizes clean architecture, API design, and reliability, with security considerations integrated into every layer of development.
+
+I enjoy building developer tools, working close to the system level, and contributing to open-source projects that solve real-world problems.
+
+🛠 Tech Stack: Go • Linux • Bash • Git <br>
+⚙️ Core Focus: Backend Development • Secure Systems • Tooling & Automation <br>
+🚀 Currently Exploring: Advanced Go patterns, system design, and backend performance <br>
 
 
 
