@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Eyosiyas Eyasu — a Go Backend Developer with a strong background in cybersecurity.
+#### 👋 Hi, I’m Eyosiyas Eyasu — a Go Backend Developer with a strong background in cybersecurity.
 
 I specialize in building scalable, secure, and performance-oriented backend systems using Go. My work emphasizes clean architecture, API design, and reliability, with security considerations integrated into every layer of development.
 
