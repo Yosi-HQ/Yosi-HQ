@@ -5,7 +5,7 @@ I specialize in building scalable, secure, and performance-oriented backend syst
 
 I enjoy building developer tools, working close to the system level, and contributing to open-source projects that solve real-world problems.
 
-🛠 Tech Stack: Go • Linux • Bash • Git <br>
+🛠 Tech Stack: Go <br>
 ⚙️ Core Focus: Backend Development • Secure Systems • Tooling & Automation <br>
 🚀 Currently Exploring: Advanced Go patterns, system design, and backend performance <br>
 
