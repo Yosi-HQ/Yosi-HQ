@@ -23,10 +23,10 @@ I enjoy building developer tools, working close to the system level, and contrib
 
 
 ## 📊 GitHub Stats 
-<!-- Streak Stats -->
-<a href="https://github.com/yosi-hq">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yosi-hq&theme=dark&hide_border=true" />
-</a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yosi-hq&theme=dark" alt="yosi-hq" /></p>
+
+
+
 
 ## ⌛ My Coding Stats 
 [![wakatime](https://wakatime.com/badge/user/eb7746ce-733c-4018-9e96-9548f025ff72.svg)](https://wakatime.com/@eb7746ce-733c-4018-9e96-9548f025ff72)<br/>
